@@ -18,7 +18,7 @@ namespace TheDrawOfNumbersEasy
 
             try
             {
-                Console.WriteLine("Wylosowana została liczbę od 1 do 100, spróbuj ją odgadnąć:");
+                Console.WriteLine("Wylosowana została liczbę od 1 do 100, spróbuj ją odgadnąć :-) ");
 
                 var yourNumber = CheckInt(0, 100);
 
